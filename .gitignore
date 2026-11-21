@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+# local backups made by the Setup panel / during development
+backups/
+.backup/
+# debug output rewritten on every detection
+vision_last.png
+vision_empty_test.png
+# big media: upload videos elsewhere and link them
+*.mp4
+*.mov

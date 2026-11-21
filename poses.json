@@ -1,0 +1,80 @@
+{
+  "gripper": {
+    "closed": 0.0,
+    "open": -130.0
+  },
+  "poses": {
+    "above_box": {
+      "elbow_flex": -122.1,
+      "shoulder_lift": -116.6,
+      "shoulder_pan": 49.6,
+      "wrist_flex": 79.5,
+      "wrist_roll": -34.3,
+      "wrist_yaw": 27.8
+    },
+    "above_highlighter": {
+      "elbow_flex": -76.5,
+      "shoulder_lift": -94.7,
+      "shoulder_pan": -24.6,
+      "wrist_flex": 61.1,
+      "wrist_roll": -28.7,
+      "wrist_yaw": -10.4
+    },
+    "down_highlighter": {
+      "elbow_flex": -73.6,
+      "shoulder_lift": -104.0,
+      "shoulder_pan": -27.8,
+      "wrist_flex": 59.9,
+      "wrist_roll": -32.3,
+      "wrist_yaw": -17.5
+    },
+    "drop_vertical": {
+      "elbow_flex": -19.4,
+      "shoulder_lift": -93.3,
+      "shoulder_pan": 16.1,
+      "wrist_flex": -80.0,
+      "wrist_roll": 11.1,
+      "wrist_yaw": -51.5
+    },
+    "fid_far_left": {
+      "elbow_flex": -140.4,
+      "shoulder_lift": -141.0,
+      "shoulder_pan": 32.9,
+      "wrist_flex": 79.6,
+      "wrist_roll": 90.0,
+      "wrist_yaw": -0.3
+    },
+    "fid_far_right": {
+      "elbow_flex": -122.2,
+      "shoulder_lift": -131.4,
+      "shoulder_pan": -17.1,
+      "wrist_flex": 76.4,
+      "wrist_roll": 76.4,
+      "wrist_yaw": 1.2
+    },
+    "fid_near_left": {
+      "elbow_flex": -73.0,
+      "shoulder_lift": -99.8,
+      "shoulder_pan": 68.2,
+      "wrist_flex": 65.0,
+      "wrist_roll": 81.4,
+      "wrist_yaw": -3.3
+    },
+    "fid_near_right": {
+      "elbow_flex": -41.4,
+      "shoulder_lift": -67.9,
+      "shoulder_pan": -58.6,
+      "wrist_flex": 52.5,
+      "wrist_roll": 90.0,
+      "wrist_yaw": 5.9
+    },
+    "rest": {
+      "elbow_flex": 0.1,
+      "shoulder_lift": -0.1,
+      "shoulder_pan": -2.7,
+      "wrist_flex": -0.2,
+      "wrist_roll": 1.7,
+      "wrist_yaw": 6.9
+    }
+  }
+}

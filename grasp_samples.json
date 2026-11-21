@@ -1,0 +1,76 @@
+{
+  "samples": [
+    {
+      "detected": {
+        "colour": "pink",
+        "forward_cm": 2.0,
+        "left_cm": -36.4,
+        "axis_deg": -3.0,
+        "length_cm": 12.7
+      },
+      "joints": {
+        "shoulder_pan": 29.6,
+        "shoulder_lift": -97.4,
+        "elbow_flex": -70.6,
+        "wrist_flex": 59.4,
+        "wrist_yaw": -4.6,
+        "wrist_roll": 29.0
+      },
+      "time": "13:53:57"
+    },
+    {
+      "detected": {
+        "colour": "pink",
+        "forward_cm": 10.6,
+        "left_cm": -29.4,
+        "axis_deg": 84.0,
+        "length_cm": 13.4
+      },
+      "joints": {
+        "shoulder_pan": 13.3,
+        "shoulder_lift": -108.9,
+        "elbow_flex": -84.9,
+        "wrist_flex": 60.3,
+        "wrist_yaw": 1.6,
+        "wrist_roll": -62.1
+      },
+      "time": "13:54:47"
+    },
+    {
+      "detected": {
+        "colour": "pink",
+        "forward_cm": 3.8,
+        "left_cm": -11.1,
+        "axis_deg": -3.0,
+        "length_cm": 11.9
+      },
+      "joints": {
+        "shoulder_pan": -20.4,
+        "shoulder_lift": -102.0,
+        "elbow_flex": -73.1,
+        "wrist_flex": 64.8,
+        "wrist_yaw": 1.5,
+        "wrist_roll": -27.2
+      },
+      "time": "13:55:05"
+    },
+    {
+      "detected": {
+        "colour": "pink",
+        "forward_cm": 14.1,
+        "left_cm": -21.2,
+        "axis_deg": 87.0,
+        "length_cm": 13.0
+      },
+      "joints": {
+        "shoulder_pan": -1.8,
+        "shoulder_lift": -111.9,
+        "elbow_flex": -90.6,
+        "wrist_flex": 60.8,
+        "wrist_yaw": -2.2,
+        "wrist_roll": -70.8
+      },
+      "time": "13:55:21"
+    }
+  ]
+}
